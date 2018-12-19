@@ -1,2 +1,3 @@
-# initianl_tasks
-tasks done to improve language profiency
+# initial_tasks
+
+tasks done to improve language profiency 
